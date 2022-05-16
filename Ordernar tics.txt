@@ -5,3 +5,4 @@ oreden 2
 codificando c++
 funcion 1
 cuerpo funcioion 
+codificando funcion para imprimir los resultados 

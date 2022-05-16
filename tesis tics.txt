@@ -1,1 +1,4 @@
-redaccion del capitulo 1
+Redaccion del capitulo 1
+Redaccion capitulo 2
+Analisis del sistema
+Diseño del sistema
