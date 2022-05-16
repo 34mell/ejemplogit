@@ -1,1 +1,7 @@
 hola soy mell me gusta comer
+ordebar en forma ascendente
+orden 1
+oreden 2
+codificando c++
+funcion 1
+cuerpo funcioion 
